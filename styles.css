@@ -437,7 +437,7 @@
         border-radius: 30px 30px;
         width: 720px;
         height: 600px;
-        margin-left: 100px;
+        margin-left: auto;
         background-color: white;
     }
 
@@ -512,6 +512,8 @@
         margin-left: 100px;
         margin-top: 25px;
         border-radius: 50px;
+        background-color: white;
+        color: white;
     }
 
     .experience{
@@ -522,9 +524,9 @@
 
     .experience h2{
         margin-top: 55px;
-        margin-left: 82px;
+        margin-left: 55px;
         text-align: center;
-        font-size: 80px;
+        font-size: 70px;
         font-weight: 600px;
         background-color: #020f33;
         color: white;
@@ -535,7 +537,7 @@
     .mycontainer{
         display:flex;
         margin-top: 50px;
-        margin-left: 105px;
+        margin-left: 30px;
         
     }
 
@@ -644,6 +646,449 @@
         background-color: white;
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     }
+
+    .members h2{
+        margin-top: 180px;
+        margin-left: 80px;
+        text-align: left;
+        font-size: 75px;
+        font-weight: 600px;
+        color: #102a43;;
+        line-height: 85px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .fourdivs{
+        display:flex;
+        margin-top: 50px;
+        margin-left: 30px;
+        background-color: white;
+        border-radius: 30px;
+    }
+    
+    .Terry{
+        border-radius: 20px 20px;
+        width: 400px;
+        height: 300px;
+        margin-left: auto;
+        background-color: white;
+    }
+
+    .terry-img img{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin-left: 25px;
+        margin-top: 30px;
+        background-color: white;
+    }
+
+    .Terry h4{
+        font-size: 20px;
+        text-align: start;
+        margin-top: 10px;
+        margin-left: 20px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Terry h5{
+        line-height: 30px;
+        margin-left: 20px;
+        color: #6c839b;
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma,Geneva, Verdana, sans-serif;
+        background-color: white;
+    }
+
+    .Terry p{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #6c839b;
+        line-height: 25px;
+        font-size: 19px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Amily{
+        border-radius: 20px 20px;
+        width: 400px;
+        height: 300px;
+        margin-left: auto;
+        background-color: white;
+    }
+
+    .amily-img img{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin-left: 30px;
+        margin-top: 25px;
+        background-color: white;
+    }
+
+    .Amily h4{
+        font-size: 20px;
+        text-align: start;
+        margin-top: 10px;
+        margin-left: 20px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Amily h5{
+        line-height: 30px;
+        margin-left: 20px;
+        color: #6c839b;
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma,Geneva, Verdana, sans-serif;
+        background-color: white;
+    }
+
+    .Amily p{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #6c839b;
+        line-height: 25px;
+        font-size: 19px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Davis{
+        border-radius: 20px 20px;
+        width: 400px;
+        height: 300px;
+        margin-left: auto;
+        background-color: white;
+    }
+
+    .davis-img img{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin-left: 25px;
+        margin-top: 30px;
+    }
+
+    .Davis h4{
+        font-size: 20px;
+        text-align: start;
+        margin-top: 10px;
+        margin-left: 20px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Davis h5{
+        line-height: 30px;
+        margin-left: 20px;
+        color: #6c839b;
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma,Geneva, Verdana, sans-serif;
+        background-color: white;
+    }
+
+    .Davis p{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #6c839b;
+        line-height: 25px;
+        font-size: 19px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .Gustavo{
+        border-radius: 20px 20px;
+        width: 400px;
+        height: 300px;
+        background-color: white;
+    }
+
+    .gustavo-img img{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin-left: 25px;
+        margin-top: 30px;
+    }
+
+    .Gustavo h4{
+        font-size: 20px;
+        text-align: start;
+        margin-top: 10px;
+        margin-left: 20px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Gustavo h5{
+        line-height: 30px;
+        margin-left: 20px;
+        color: #6c839b;
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma,Geneva, Verdana, sans-serif;
+        background-color: white;
+    }
+
+    .Gustavo p{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #6c839b;
+        line-height: 25px;
+        font-size: 19px;
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .lastbox{
+        display: flex;
+        margin-top: 200px;
+        margin-left: 70px;
+        width: 700px;
+        height: 600px;
+    }
+
+    .ready{
+        margin-left: 70px
+    }
+
+    .ready h2{
+        margin-left: 50px;
+        font-size: 60px;
+        font-weight: 500px;
+        line-height: 75px;
+        color:#102a43;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+
+    .ready p{
+        text-align: left;
+        font-size: 23px;
+        color: #6c839b;
+        font-weight: 800px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 30px; 
+        margin-left: 50px;
+        line-height: 40px;
+    }
+
+    .app-div{
+        margin-bottom: 10px;
+        margin-right: 300px;
+
+    }
+
+    .google{
+        margin-left: 55px;
+        margin-top: 45px;
+    }
+
+    .google :hover{
+        cursor: pointer;
+        width: 160px;
+        height: 55px;
+        transition-duration: 3s ease-in;
+        transition-property: transform;
+    }
+
+    .apple{
+        margin-left: 230px;
+        margin-top: -50px;
+    }
+
+    .apple :hover{
+        cursor: pointer;
+        width: 160px;
+        height: 55px;
+        transition-duration: 3s ease-in;
+        transition-property: transform;
+    }
+
+    footer{
+        background-color: #020f33;
+    }
+
+    .footer-container{
+        background-color:  #020f33;
+        display:flex;
+        margin-top: 40px;
+        padding-left: 30px;
+        padding-top: 120px;
+    }
+
+    .bolt{
+        width: 500px;
+        height: 400px;
+        background-color: #020f33;
+    }
+
+    .footer-container img{
+        width: 150px;
+        height: 40px;
+        margin-left: 62px;
+        background-color: #020f33;
+        padding: 13px;
+    }
+
+    .bolt p{
+        margin-left: 80px;
+        font-size: 22px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        color: white;
+        line-height: 35px;
+        background-color: #020f33;
+        margin-top: 10px;
+    }
+
+    .product{
+        width: 250px;
+        height: 350px;
+        background-color: #020f33;
+    }
+
+    .product h4{
+        font-size: 20px;
+        font-weight: 700;
+        background-color: #020f33;
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .product ul{
+        margin-top: 15px;
+        font-size:19px;
+        line-height: 45px;
+        background-color: #020f33;
+    }
+
+    .product ul a{
+        text-decoration: none;
+        color: #c6d0dc;
+        background-color: #020f33;
+        font-weight: 600;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .support{
+        width: 250px;
+        height: 350px;
+        background-color: #020f33;
+    }
+
+    .support h4{
+        font-size: 20px;
+        font-weight: 700;
+        background-color: #020f33;
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .support ul{
+        margin-top: 15px;
+        font-size:19px;
+        line-height: 45px;
+        background-color: #020f33;
+    }
+
+    .support ul a{
+        text-decoration: none;
+        color: #c6d0dc;
+        background-color: #020f33;
+        font-weight: 600;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .company{
+        width: 250px;
+        height: 400px;
+        background-color: #020f33;
+    }
+
+    .company h4{
+        font-size: 20px;
+        font-weight: 700;
+        background-color: #020f33;
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .company ul{
+        margin-top: 15px;
+        font-size:19px;
+        line-height: 45px;
+        background-color: #020f33;
+    }
+
+    .company ul a{
+        text-decoration: none;
+        color: #c6d0dc;
+        background-color: #020f33;
+        font-weight: 600;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .pricing{
+        width: 250px;
+        height: 400px;
+        background-color: #020f33;
+    }
+
+    .pricing h4{
+        font-size: 20px;
+        font-weight: 700;
+        background-color: #020f33;
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .pricing ul{
+        margin-top: 15px;
+        font-size:19px;
+        line-height: 45px;
+        background-color: #020f33;
+    }
+
+    .pricing ul a{
+        text-decoration: none;
+        color: #c6d0dc;
+        background-color: #020f33;
+        font-weight: 600;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .link{
+        margin-top: -70px;
+        background-color: #020f33;
+        color: #c6d0dc;
+        font-size: 17px;
+        margin-left: 430px;
+        font-weight: 400;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 30px;
+
+    }
+    .link p{
+        background-color: #020f33;
+    }
+
+    .link a{
+        background-color: #020f33;
+        color:#44beff;
+        text-decoration: none;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    
+    
+    
+
+
+
+    
+
 
 
 
